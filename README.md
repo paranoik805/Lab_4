@@ -281,7 +281,7 @@ x = tf.keras.layers.experimental.preprocessing.RandomCrop(height = 224, width = 
 
 ***Пояснение:*** 
  
-<img src="./graph/noise_all.jpg">
+<img src="./graph/all_cat.jpg">
 
  ***График функции потерь:*** 
  
@@ -289,7 +289,7 @@ x = tf.keras.layers.experimental.preprocessing.RandomCrop(height = 224, width = 
 
  ***Пояснение:*** 
  
-<img src="./graph/noise_all.jpg">
+<img src="./graph/all_loss.jpg">
 
 
 ### Анализ результатов:
